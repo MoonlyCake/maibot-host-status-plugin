@@ -1,0 +1,6 @@
+/config.toml
+/data/
+/.venv/
+/.local-runtime/
+__pycache__/
+*.py[cod]
